@@ -1,0 +1,15 @@
+torch
+numpy
+librosa
+dlib
+opencv-python-headless
+scikit-video
+tqdm
+streamlit
+transformers
+soundfile
+sentencepiece
+datasets[audio]
+scipy
+python_speech_features
+fairseq
