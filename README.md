@@ -25,7 +25,6 @@ cd lip-reading-project
 
 # Install dependencies
 pip install -r requirements.txt
-```
 
 ## Usage
 Run the Streamlit web application:
